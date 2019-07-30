@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pets",
+"productVersion": "0.1",
+"dataUrl": "Pets.data.unityweb",
+"asmCodeUrl": "Pets.asm.code.unityweb",
+"asmMemoryUrl": "Pets.asm.memory.unityweb",
+"asmFrameworkUrl": "Pets.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF",
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.0a5"
+}
